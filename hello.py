@@ -1,3 +1,5 @@
+print "Hello, World!"
+
 import random
 
 import matplotlib.pyplot as plt
